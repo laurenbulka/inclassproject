@@ -359,9 +359,15 @@ textarea {
 /* =============
     Section 3
 ============= */
+#section-3 aside img {
+  width: 100%; }
+
 /* =============
     Section 4
 ============= */
+#section-4 img {
+  width: 100%; }
+
 /* =============
     Section 5
 ============= */

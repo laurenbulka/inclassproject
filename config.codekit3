@@ -186,13 +186,21 @@
 		"oAP": "/design/structure-tags.sketch",
 		"oF": 0
 		},
-	"/dev/index.kit": {
+	"/dev/footer.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
+		"oAP": "/dev/footer.html",
+		"oF": 0
+		},
+	"/dev/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
 		"oAP": "/dev/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"/dev/js/scripts.js": {
 		"bF": 0,
