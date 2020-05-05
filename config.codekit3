@@ -42,6 +42,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/Assets/shutterstock_333995528.jpg": {
+		"ft": 16384,
+		"iS": 14509118,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_333995528.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/Assets/shutterstock_667612975.jpg": {
 		"ft": 16384,
 		"iS": 18338295,
@@ -134,7 +145,7 @@
 		"oAP": "/deploy/img/section-1/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-2/hero.png": {
@@ -156,7 +167,7 @@
 		"oAP": "/deploy/img/section-3/grid-bot.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-4/hero.jpg": {
@@ -545,7 +556,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 608749270.97778797,
-	"displayValue": "inclassproject",
+	"displayValue": "in-class-AM",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-pale",
 	"iconImageWasSetByUser": 0
